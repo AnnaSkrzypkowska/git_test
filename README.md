@@ -1,1 +1,0 @@
-This is AnnaSkrzypkowska’s first git project!
